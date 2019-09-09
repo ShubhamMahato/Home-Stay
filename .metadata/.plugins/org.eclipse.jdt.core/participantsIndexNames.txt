@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Admin\Desktop\HomeStay\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2036398418.index
+\HomeStay\src
+C:\Users\Admin\Desktop\HomeStay\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4117903001.index
+\HomeStay\src
